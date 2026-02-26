@@ -26,16 +26,17 @@ I come from a strong research background in generative models and signal/image a
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-182A52?style=for-the-badge&logo=optuna&logoColor=white)
 
-**Backend & APIs**  
+### Data & Backend
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=json&logoColor=white)
 
 **Frontend & Web**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 **Cloud & Deployment**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -81,9 +82,9 @@ I come from a strong research background in generative models and signal/image a
 
 ### 🔎 Open to opportunities
 
-I’m looking for roles such as:
+I’m interested in roles such as:
 
-**Machine Learning Engineer | Applied AI Engineer | Full-Stack ML Developer**
+**Data Analyst | Machine Learning Analyst | Applied ML Engineer**
 
 ---
 
