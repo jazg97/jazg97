@@ -46,7 +46,7 @@ I come from a strong research background in generative models and signal/image a
 ### Featured Projects
 
 | Project | Description | Demo | Tech |
-|---|---|---|
+|---|---|---|---|
 | **TrafficSignalControl-RL** | Reinforcement Learning agent to optimize urban traffic flow in SUMO | | PyTorch, PPO/Rainbow, Traci |
 | **ACWGAN-SN PRPD Generator** | Synthetic PRPD pattern generation with conditional GANs | https://huggingface.co/spaces/jazg97/WGAN |PyTorch, OpenCV, PRPD features |
 | **WhatsApp LLM Chatbot** | LLaMA/OpenAI-based assistant with FastAPI backend | | FastAPI, Webhooks, LLM Inference |
