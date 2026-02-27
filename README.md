@@ -50,8 +50,7 @@ I come from a strong research background in generative models and signal/image a
 | **TrafficSignalControl-RL** | Reinforcement Learning agent to optimize urban traffic flow in SUMO | | PyTorch, PPO/Rainbow, Traci |
 | **ACWGAN-SN PRPD Generator** | Synthetic PRPD pattern generation with conditional GANs | https://huggingface.co/spaces/jazg97/WGAN |PyTorch, OpenCV, PRPD features |
 | **WhatsApp LLM Chatbot** | LLaMA/OpenAI-based assistant with FastAPI backend | | FastAPI, Webhooks, LLM Inference |
-| **LLM-based Nutritional Chatbot** | USDA-grounded nutrition assistant with compare, memory, and          
-    correction-aware dialogue. | https://huggingface.co/spaces/jazg97/Nutritional-Assistant | OpenAI API, USDA FoodData Central API, Gradio, Prompt Engineering  |
+| **LLM-based Nutritional Chatbot** | USDA-grounded nutrition assistant with compare, memory, and correction-aware dialogue. | https://huggingface.co/spaces/jazg97/Nutritional-Assistant | OpenAI API, USDA FoodData Central API, Gradio, Prompt Engineering  |
 | **Lung Ultrasound Classifier** | Feature extraction + model training for artifact detection |  | PyTorch, scikit-image |
 
 🔗 Repos with ⭐ will soon include deployed demos & documentation.
